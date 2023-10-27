@@ -1,5 +1,5 @@
 - id: check-aws-profile
-  name: AWS Profile
+  name: Terraform AWS Profiles
   description: Detect AWS profiles in Terraform scripts and compare with YAML file
   entry: check-aws-profile
   language: python
